@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Displacement thickness is given by",
+        "qid": 1,
+        "option_a": "$$ \\int^{1}_{0} (\\frac{u}{U}) dy $$",
+        "option_b": "$$ \\int^{\\Delta}_{2} (1 + \\frac{u}{U}) dy $$",
+        "option_c": "$$ \\int^{\\Delta}_{0} (1 - \\frac{u}{U}) dy $$",
+        "option_d": "$$ \\int^{\\Delta}_{0} (1 + \\frac{u}{U}) $$",
+        "correct_option": "c"
+    },
+    {
+        "question": "Momentum thickness is given by",
+        "qid": 2,
+        "option_a": "$$ \\int^{\\Delta}_{0} \\frac{u}{U} [1 - \\frac{u}{U}] dy $$",
+        "option_b": "$$ \\int^{\\Delta}_{0} [1 - \\frac{u}{U}] dy $$",
+        "option_c": "$$ \\int^{\\Delta}_{0} [1 + \\frac{u}{U}] dy $$",
+        "option_d": "$$ \\int^{\\Delta}_{0} [1 - \\frac{u}{U}] $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Energy thickness is given by",
+        "qid": 3,
+        "option_a": "$$ \\int^{\\Delta}_{0} [1 - \\frac{u^2}{U^2}] dy $$",
+        "option_b": "$$ \\int^{\\Delta}_{0} \\frac{u}{U} [1 - \\frac{u}{U}] dy $$",
+        "option_c": "$$ \\int^{\\Delta}_{0} \\frac{u}{U} [1 + \\frac{u^2}{U^2}] $$",
+        "option_d": "$$ \\int^{\\Delta}_{0} \\frac{u}{U} [1 - \\frac{u^2}{U^2}] dy $$",
+        "correct_option": "d"
+    }
+]
