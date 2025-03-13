@@ -1,0 +1,20 @@
+[
+   {
+      "question": "If the velocity distribution in boundary layer is given by $$ \\frac{u}{U} = \\frac{y}{2δ} $$ Find displacement thickness.",
+      "qid": 1,
+      "option_a": "$$ \\frac{4}{3}δ  $$",
+      "option_b": "$$ \\frac{3}{5}δ  $$",
+      "option_c": "$$ \\frac{3}{4}δ  $$",
+      "option_d": "$$ \\frac{5}{3}δ  $$",
+      "correct_option": "c"
+   },
+   {
+      "question": "If the velocity distribution in boundary layer is given by $$ \\frac{u}{U} = \\frac{y}{2δ} $$ Find momentum thickness.",
+      "qid": 2,
+      "option_a": "$$ \\frac{1}{6}δ  $$",
+      "option_b": "$$ \\frac{2}{5}δ  $$",
+      "option_c": "$$ \\frac{2}{3}δ  $$",
+      "option_d": "$$ \\frac{1}{4}δ  $$",
+      "correct_option": "a"
+   }
+]
